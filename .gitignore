@@ -416,3 +416,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.cs
+tarea12/Form1.Designer.cs
